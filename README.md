@@ -7,7 +7,7 @@ I explored a healthcare dataset and created a three-page interactive Power BI da
 I chose a single-color theme with varying shades to maintain a light, pleasant, and soothing look throughout the report.🎨
 One of the most exciting aspects was experimenting with field parameters for the first time—it added powerful dynamic filtering capabilities! 
 
-Snap of Dashboard Pages (4)
+Snap of Dashboard Pages (3)
 
 ![Image](https://github.com/user-attachments/assets/a397f151-f10f-4b61-8068-0365f208294f)
 
